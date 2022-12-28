@@ -91,3 +91,29 @@ __내용__
 
 - 지난 커밋들을 볼 수 있음
 - git log --stat 명령어를 사용하면 어떤 차이가 생겼는지 알 수 있음
+
+## `원격저장소 활용하기`
+
+1. 레포지토리 생성
+
+2. git remote add origin (url)
+
+3. 원격저장소에 push
+   git push origin master
+   (유저네임과, 토큰) 입력
+
+4. 원격저장소 저장된 코드 가져오기!
+   git pull origin master
+
+## `협업(처음 프로젝트를 가져올때)`
+
+- git clone (url)
+- `다운로드`(zip)와 `clone`의 차이?
+  - 다운로드 :가장 최신 버전의 파일만 가져오는것
+  - clone: git 저장소를 가져오는것(이전 버전 히스토리를 볼 수 있음)
+
+## `깃헙 Push 실패 해결`
+
+1. 원격저장소 pull
+2. 로컬에서 두 커밋 병합(merge conflict)
+3. 다시 깃헙 푸쉬
