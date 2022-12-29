@@ -2,9 +2,9 @@
 
  <br/>
 
-## [Git](git/git.md)
+### [Git](git/git.md)
 
-## [Markdown](markdown/markdown.md)
+### [Markdown](markdown/markdown.md)
 
 <br/><br/><br/><br/><br/>
 
