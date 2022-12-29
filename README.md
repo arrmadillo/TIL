@@ -2,9 +2,11 @@
 
  <br/>
 
-## [Git / MarkDown (간략한 정리)](git_markdown.md)
+## [Git](git/git.md)
 
-<br/><br/><br/><br/><br/><br/><br/>
+## [Markdown](markdown/markdown.md)
+
+<br/><br/><br/><br/><br/>
 
 <p align="center">
   <img src="https://images2.minutemediacdn.com/image/upload/c_crop,w_3000,h_1687,x_0,y_47/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/theplayertribune/01gjbazqh8bct8vh6p5q.jpg" alt="deft" height="300" width="500"/>
