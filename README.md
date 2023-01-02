@@ -6,6 +6,8 @@
 
 ### [Markdown](markdown/markdown.md)
 
+### [Python 컨벤션](python/convention.md)
+
 <br/><br/><br/><br/><br/>
 
 <p align="center">
