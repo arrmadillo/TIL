@@ -6,7 +6,7 @@
 
 ### [Markdown](markdown/markdown.md)
 
-### [Python 컨벤션](python/convention.md)
+### [Python](python/python.md)🐍
 
 <br/><br/><br/><br/><br/>
 
