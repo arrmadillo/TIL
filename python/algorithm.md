@@ -6,4 +6,4 @@
 
 ### [zip 함수](zip.md)
 
-### [map.md](map.md)
+### [map 함수](map.md)
