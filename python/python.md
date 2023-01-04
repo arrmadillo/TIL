@@ -1,7 +1,6 @@
 # Python(파이썬)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png
-" height="100" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="100" width="100"/>
 
 ### [PEP8 (파이썬 컨벤션)](convention.md)
 
