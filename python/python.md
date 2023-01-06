@@ -9,3 +9,5 @@
 ### [삼항연산자(if)](Ternary_operator.md)
 
 ### [pip(파이썬 패키지 관리자)](pip.md)
+
+### [람다 함수](lambda.md)
