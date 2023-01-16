@@ -7,3 +7,5 @@
 ### [zip 함수](zip.md)
 
 ### [map 함수](map.md)
+
+### [리스트 최빈값 구하기](list_mode.md)
