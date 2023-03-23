@@ -8,6 +8,8 @@
 
 ### [Python](python/python.md)🐍
 
+### [Django](django/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95%20%EA%B0%80%EC%9D%B4%EB%93%9C%207f398dc597764bd4a253a3183b51614a.md)
+
 <br/><br/><br/><br/><br/>
 
 <p align="center">
