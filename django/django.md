@@ -9,3 +9,5 @@
 ### [인증 시스템(AbstractUser - 로그인, 로그아웃, 세션부여)](authentication.md)
 
 ### [인증시스템2(User 객체, CUD)](authentication2.md)
+
+### [Static / Media Files](Static_Media_Files.md)
