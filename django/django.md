@@ -11,3 +11,5 @@
 ### [인증시스템2(User 객체, CUD)](authentication2.md)
 
 ### [Static / Media Files](Static_Media_Files.md)
+
+### [Many to one relationships(다대일)](Many_to_one_relationships.md)
