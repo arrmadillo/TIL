@@ -10,6 +10,8 @@
 
 ### [Django](django/django.md)
 
+### [WEB](web/web.md)
+
 <br/><br/><br/><br/><br/>
 
 <p align="center">
