@@ -15,3 +15,5 @@
 ### [Many to one relationships(다대일)](Many_to_one_relationships.md)
 
 ### [Many to Many relationships(다대다)](manytomany.md)
+
+### [Fixture(데이터세트 파일)](fixture.md)
