@@ -8,6 +8,8 @@
 
 ### [Python](python/python.md)🐍
 
+### [JavaScript](javascript/javascript.md)
+
 ### [Django](django/django.md)
 
 ### [WEB](web/web.md)
